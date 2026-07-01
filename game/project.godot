@@ -1,0 +1,31 @@
+; Engine configuration file.
+; Generated for Godot v4.7.stable
+; 세부 기획: _game_output/planning-artifacts/
+
+config_version=5
+
+[application]
+
+config/name="Lucky Star Game"
+config/description="러키스타 팬게임 — 비상업 동인"
+config/version="0.1.0"
+run/main_scene="res://scenes/album/album.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://icon.svg"
+
+[autoload]
+
+ProgressManager="*res://autoload/progress_manager.gd"
+GameState="*res://autoload/game_state.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

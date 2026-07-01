@@ -6,7 +6,7 @@
 
 ## 1. 엔진 선정
 
-**Godot 4 (최신 stable, 4.4.x 기준)**
+**Godot 4.7.stable** (`v4.7.stable.official[5b4e0cb0f]`)
 
 | 검토 항목 | 내용 |
 |---|---|

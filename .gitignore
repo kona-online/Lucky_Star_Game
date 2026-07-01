@@ -1,0 +1,17 @@
+# Godot 4 — 에디터 캐시 및 임포트 데이터 (자동 생성, 커밋 불필요)
+game/.godot/
+
+# Godot 내보내기 프리셋 (플랫폼별 절대 경로 포함)
+game/export_presets.cfg
+
+# Windows 빌드 결과물
+game/*.exe
+game/*.pck
+game/*.zip
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# 세이브 데이터 (user:// 는 Windows AppData에 저장되므로 프로젝트 폴더에 없음 — 참고용 주석)
+# user://progress.cfg → %APPDATA%\Godot\app_userdata\Lucky Star Game\progress.cfg
