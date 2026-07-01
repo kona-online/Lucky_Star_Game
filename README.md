@@ -29,8 +29,14 @@
 
 - [x] 장르 / 프레임 / 4챕터 / 엔딩 기획 확정
 - [x] 개발 환경 확정 ([`_game_output/planning-artifacts/architecture-dev-environment.md`](_game_output/planning-artifacts/architecture-dev-environment.md))
-- [ ] 챕터별 세부 기획 (코나타부터 진행 예정)
-- [ ] 프로토타입 개발
+- [x] 챕터별 세부 기획 완료
+  - [x] 코나타 — 졸음 자원관리 + 반사신경 ([기획서](_game_output/planning-artifacts/chapter-design-konata.md))
+  - [x] 카가미 — 스테이지형 QTE 츳코미 ([기획서](_game_output/planning-artifacts/chapter-design-kagami.md))
+  - [x] 미유키 — 트리비아 퀴즈 ([기획서](_game_output/planning-artifacts/chapter-design-miyuki.md))
+  - [x] 츠카사 — 카루타 그림 맞추기 ([기획서](_game_output/planning-artifacts/chapter-design-tsukasa.md))
+- [ ] Godot 프로젝트 스캐폴딩 (폴더 구조 생성, 공통 시스템 구현)
+- [ ] 챕터별 프로토타입 개발
+- [ ] 앨범 허브 + 엔딩 씬 개발
 
 ## 개발 환경
 
